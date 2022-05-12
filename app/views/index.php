@@ -2,6 +2,6 @@
 
 ?>
 HOME PAGE<br>
-<a href="<?=URLROOT;?>/gcontrollers/dashboard">dashboard</a>
+<a href="<?=URLROOT;?>/products/index">products</a>
 
 
